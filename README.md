@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="img/ChatGPT Image Jun 10, 2026, 12_33_06 AM.png" alt="LUMAVI Properties" width="180"/>
+<img src="img/ChatGPT Image Jun 10, 2026, 12_33_06 AM.png" alt="LUMAVI Properties" width="1584"/>
 
 # LUMAVI Properties
 
