@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://lumavipr.com/img/LUMAVI_Roof_Clear.png" alt="LUMAVI Properties" width="180"/>
+<img src="img/ChatGPT Image Jun 10, 2026, 12_33_06 AM.png" alt="LUMAVI Properties" width="1128"/>
 
 # LUMAVI Properties
 
@@ -8,11 +8,11 @@
 
 **A full-stack real estate platform for Puerto Rico — built to rescue abandoned properties and return them to families as dignified homes.**
 
-[![Live Site](https://img.shields.io/badge/🌐_Live_Site-lumavipr.com-8dc648?style=for-the-badge)](https://lumavipr.com)
-[![Made in PR](https://img.shields.io/badge/Made_in-Puerto_Rico_🇵🇷-blue?style=for-the-badge)](https://lumavipr.com)
+[![Live Site](https://img.shields.io/badge/🌐_Live_Site-lumavipr.com-8dc648?style=for-the-badge)](https://lumavilanding.netlify.app/)
+[![Made in PR](https://img.shields.io/badge/Made_in-Puerto_Rico_🇵🇷-blue?style=for-the-badge)](https://lumavilanding.netlify.app/)
 [![Built with Claude](https://img.shields.io/badge/Built_with-Claude_AI-D97757?style=for-the-badge&logo=anthropic)](https://anthropic.com)
 
-[**Visit the Site →**](https://lumavipr.com) · [**Read the Blog**](https://lumavipr.com/blog.html) · [**Meet the Team**](https://lumavipr.com/nosotros.html)
+[**Visit the Site →**](https://lumavilanding.netlify.app/) · [**Read the Blog**](https://https://lumavilanding.netlify.app/blog.html) · [**Meet the Team**](https://lumavilanding.netlify.app/nosotros.html)
 
 </div>
 
@@ -22,7 +22,7 @@
 
 LUMAVI Properties exists for one reason: **to give abandoned and deteriorated properties in Puerto Rico a second life.** We work with herederos, families dealing with sucesiones, and owners off-island — handling each property with the dignity its story deserves.
 
-Our name comes from three generations of *Luz* — **Lu**z (abuela) · **Lu**ière (Lumi) — and **Av**i, my son Xavier. Three generations of light, now used to bring light back to homes that have lived in darkness for years.
+Our name comes from three generations of *Luz* — **Luz** (abuela) · **Luz** (madre) · **Lumière** (Lumi, YO) — and **Xavi**, my son Xavier. Three generations of light, now used to bring light back to homes that have lived in darkness for years.
 
 > *"Cada casa abandonada es una historia esperando a ser restaurada."*
 > — Lumier Rodríguez, CEO & Fundador
@@ -90,10 +90,10 @@ Built fast, built right, no vendor lock-in:
 
 ```
 ┌────────────────────────────────────────────────────────────────────┐
-│                         LUMAVIPR.COM                                │
+│                         LUMAVIPR.COM                               │
 ├────────────────────────────────────────────────────────────────────┤
 │  PUBLIC PAGES (SEO-indexed)        INTERNAL PORTAL (auth required) │
-│  ├─ index.html (home)              ├─ interno.html (team home)    │
+│  ├─ index.html (home)              ├─ interno.html (team home)     │
 │  ├─ blog.html + /blog/[slug]       ├─ captura.html (call entry)    │
 │  ├─ nosotros.html (team)           ├─ captura-campo.html (field)   │
 │  ├─ contratistas.html              ├─ visita.html (inspection)     │
@@ -106,7 +106,7 @@ Built fast, built right, no vendor lock-in:
                               │
                               ▼
 ┌────────────────────────────────────────────────────────────────────┐
-│                       BUILD PIPELINE                                │
+│                       BUILD PIPELINE                               │
 │  /posts/*.md  ──┐                                                  │
 │  /wiki/*.md   ──┼──▶  build.js  ──▶  posts.json + wiki.json       │
 │  /team/*.md   ──┘                ──▶  team.json                    │
@@ -116,10 +116,10 @@ Built fast, built right, no vendor lock-in:
                               │
                               ▼
 ┌────────────────────────────────────────────────────────────────────┐
-│                    DATA INTEGRATIONS                                │
-│  • Google Sheets ◀──── Apps Script ◀──── Form submissions          │
-│  • Airtable      ◀──── Direct API   ◀──── Deal analyzer            │
-│  • Google Drive  ◀──── Direct upload ◀─── Contractor photos        │
+│                    DATA INTEGRATIONS                               │
+│  • Google Sheets ◀──── Apps Script ◀──── Form submissions         │
+│  • Airtable      ◀──── Direct API   ◀──── Deal analyzer           │
+│  • Google Drive  ◀──── Direct upload ◀─── Contractor photos       │
 │  • Formspree     ◀──── Public forms                                │
 └────────────────────────────────────────────────────────────────────┘
 ```
@@ -170,7 +170,7 @@ Most real estate companies have a website. We have an **operating system**:
 
 **LUMAVI Properties** is actively rescuing properties across Puerto Rico.
 
-- 🌐 **Website:** [lumavipr.com](https://lumavipr.com)
+- 🌐 **Website:** [lumavipr.com](https://lumavilanding.netlify.app/)
 - 📧 **Email:** [casaslumavi@gmail.com](mailto:casaslumavi@gmail.com)
 - 📱 **Phone / WhatsApp:** [(787) 454-2924](tel:+17874542924)
 - 📍 **Location:** San Juan, Puerto Rico
@@ -188,10 +188,10 @@ Most real estate companies have a website. We have an **operating system**:
 
 ## 🤝 Want to Work With LUMAVI?
 
-- **Selling, renting, or financing a property?** → [Apply here](https://lumavipr.com/aplica.html)
-- **Contractor / craftsperson?** → [Join our team](https://lumavipr.com/contratistas.html)
-- **Looking for a job?** → [See openings](https://lumavipr.com/empleos.html)
-- **Need help understanding your options?** → [Ask anything](https://lumavipr.com/ayuda.html)
+- **Selling, renting, or financing a property?** → [Apply here](https://lumavilanding.netlify.app/aplica.html)
+- **Contractor / craftsperson?** → [Join our team](https://lumavilanding.netlify.app/contratistas.html)
+- **Looking for a job?** → [See openings](https://lumavilanding.netlify.app/empleos.html)
+- **Need help understanding your options?** → [Ask anything](https://lumavilanding.netlify.app/ayuda.html)
 
 ---
 
