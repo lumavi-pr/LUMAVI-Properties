@@ -12,7 +12,7 @@
 [![Made in PR](https://img.shields.io/badge/Made_in-Puerto_Rico_🇵🇷-blue?style=for-the-badge)](https://lumavilanding.netlify.app/)
 [![Built with Claude](https://img.shields.io/badge/Built_with-Claude_AI-D97757?style=for-the-badge&logo=anthropic)](https://anthropic.com)
 
-[**Visit the Site →**](https://lumavilanding.netlify.app/) · [**Read the Blog**](https://https://lumavilanding.netlify.app/blog.html) · [**Meet the Team**](https://lumavilanding.netlify.app/nosotros.html)
+[**Visit the Site →**](https://lumavilanding.netlify.app/) · [**Read the Blog**](https://lumavilanding.netlify.app/blog.html) · [**Meet the Team**](https://lumavilanding.netlify.app/nosotros.html)
 
 </div>
 
@@ -190,7 +190,7 @@ Most real estate companies have a website. We have an **operating system**:
 
 - **Selling, renting, or financing a property?** → [Apply here](https://lumavilanding.netlify.app/aplica.html)
 - **Contractor / craftsperson?** → [Join our team](https://lumavilanding.netlify.app/contratistas.html)
-- **Looking for a job?** → [See openings](https://lumavilanding.netlify.app/empleos.html)
+- **Looking for a job?** → [See openings](https://lumavilanding.netlify.app/aplica-empleos)
 - **Need help understanding your options?** → [Ask anything](https://lumavilanding.netlify.app/ayuda.html)
 
 ---
