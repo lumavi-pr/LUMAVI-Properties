@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://lumavipr.com/img/LUMAVI_Roof_Clear.png" alt="LUMAVI Properties" width="180"/>
+<img src="https://github.com/lumavi-pr/LUMAVI-Properties/img/LUMAVI_Roof_Clear.png" alt="LUMAVI Properties" width="180"/>
 
 # LUMAVI Properties
 
