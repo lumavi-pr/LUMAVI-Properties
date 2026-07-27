@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://lumavipr.com/img/LUMAVI_Roof_Clear.png" alt="LUMAVI Properties" width="180"/>
+<img src="img/ChatGPT Image Jun 10, 2026, 12_33_06 AM.png" alt="LUMAVI Properties" width="180"/>
 
 # LUMAVI Properties
 
@@ -22,7 +22,7 @@
 
 LUMAVI Properties exists for one reason: **to give abandoned and deteriorated properties in Puerto Rico a second life.** We work with herederos, families dealing with sucesiones, and owners off-island — handling each property with the dignity its story deserves.
 
-Our name comes from three generations of *Luz* — **Lu**z (abuela) · **Lu**ière (Lumi) — and **Av**i, my son Xavier. Three generations of light, now used to bring light back to homes that have lived in darkness for years.
+Our name comes from three generations of *Luz* — **Lu**z (abuela) · *Luz* — **Lu**z (mom) · **Lu**ière (Lumi) — and **Xav**i, my son Xavier. Three generations of light, now used to bring light back to homes that have lived in darkness for years.
 
 > *"Cada casa abandonada es una historia esperando a ser restaurada."*
 > — Lumier Rodríguez, CEO & Fundadora
