@@ -2,7 +2,6 @@
 
 <img src="img/ChatGPT Image Jun 10, 2026, 12_33_06 AM.png" alt="LUMAVI Properties" size="1584 x 396 px"/>
 
-# LUMAVI Properties
 
 ### *Rescatando hogares. Restaurando comunidades.*
 
