@@ -155,11 +155,11 @@ Three-tier design with clean separation:
                               ▼
 ┌────────────────────────────────────────────────────────────────────┐
 │                    ATTACHMENTS & STATIC BUILD                      │
-│  Airtable Content API  ◀── Photos + voice notes (permanent)       │
+│  Airtable Content API  ◀── Photos + voice notes (permanent)        │
 │  GitHub markdown      ──▶ build.js   ──▶ posts.json + team.json   │
 │                                      ──▶ /blog/[slug].html (SEO)   │
 │                                      ──▶ sitemap.xml               │
-│  Formspree             ◀── Public forms (aplica, ayuda, empleos)   │
+│  Formspree            ◀── Public forms (aplica, ayuda, empleos)    │
 └────────────────────────────────────────────────────────────────────┘
 ```
 
