@@ -1,266 +1,185 @@
 <div align="center">
 
-<img src="img/ChatGPT Image Jun 10, 2026, 12_33_06 AM.png" alt="LUMAVI Properties" size="1584 x 396 px"/>
+<a href="https://lumavipr.com/en/"><img src="assets/banner.jpg" alt="LUMAVI Properties — Puerto Rico property rescue, inheritance coordination and property management. Before and after of a rescued house in Río Piedras." width="100%"></a>
 
+# LUMAVI Properties
 
-### *Rescatando hogares. Restaurando comunidades.*
+## Puerto Rico property rescue · inheritance coordination · property management
 
-**A full-stack, Airtable-backed SaaS real estate platform for Puerto Rico — built to rescue abandoned properties and return them to families as dignified homes.**
+**We bring forgotten and inherited homes in Puerto Rico back to life — and we built Lumova, our own bilingual platform, to run every case, every house and every crew.**
 
-[![Live Site](https://img.shields.io/badge/🌐_Live_Site-lumavipr.com-8dc648?style=for-the-badge)](https://lumavipr.com)
-[![Made in PR](https://img.shields.io/badge/Made_in-Puerto_Rico_🇵🇷-blue?style=for-the-badge)](https://lumavipr.com)
-[![Built with Claude](https://img.shields.io/badge/Built_with-Claude_AI-D97757?style=for-the-badge&logo=anthropic)](https://anthropic.com)
+[![Website](https://img.shields.io/badge/lumavipr.com-0A233E?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lumavipr.com/en/)
+[![Book a consultation](https://img.shields.io/badge/Book_a_consultation-8CC346?style=for-the-badge&logoColor=0A233E)](https://lumavipr.com/en/consultations)
+[![Español](https://img.shields.io/badge/Leer_en_español-FFFFFF?style=for-the-badge&logoColor=0A233E)](README.es.md)
 
-[**Visit the Site →**](https://lumavipr.com) · [**Read the Blog**](https://lumavipr.com/blog.html) · [**Meet the Team**](https://lumavipr.com/nosotros.html) · [**Contractors →**](https://lumavipr.com/contratistas.html)
+[What we do](#what-we-do) · [The work](#the-work) · [Lumova](#lumova--the-platform-we-built) · [The founder](#the-founder) · [Milestones](docs/MILESTONES.md) · [Contact](#contact)
 
 </div>
 
 ---
 
-## 🏡 About LUMAVI
-
-LUMAVI Properties exists for one reason: **to give abandoned and deteriorated properties in Puerto Rico a second life.** We work with herederos, families dealing with sucesiones, and owners off-island — handling each property with the dignity its story deserves.
-
-Our name comes from three generations of *Luz* — **Lu**z (abuela) · *Luz* — **Lu**z (madre) · **Lum**ière (Lumi) — and **Xav**i, my son Xavier. Three generations of light, now used to bring light back to homes that have lived in darkness for years.
-
-> *"Cada casa abandonada es una historia esperando a ser restaurada."*
-> — Lumier Rodríguez, CEO & Fundadora
+<div align="center">
+<img src="assets/lumavi-tour.gif" alt="Tour of LUMAVI: before and after rescues in Río Piedras and Bayamón, the bilingual website, the client portal and Lumova, the platform behind LUMAVI." width="88%">
+<br><sub>Quick tour · <a href="assets/lumavi-tour.mp4">full video (MP4)</a> · screens show sample data</sub>
+</div>
 
 ---
 
-## ⚡ What This Platform Does
+## Why LUMAVI exists
 
-This isn't a brochure site. It's a full operating system for a real estate company — a SaaS-like platform where the team logs in through one website, and everything they do is backed by a real relational database.
+Puerto Rico has roughly **307,000 vacant homes**, according to U.S. Postal Service data reported in 2024 ([Metro Puerto Rico](https://www.metro.pr/noticias/2024/11/21/alrededor-de-300-mil-viviendas-en-la-isla-estan-desocupadas/)). Many of them are stuck in an unfinished inheritance — the heirs live in Florida, New York or Pennsylvania, the paperwork never started, and the house slowly falls apart.
 
-### 🏠 For the Public
+LUMAVI is the team on the ground for those families. We coordinate the inheritance, look after the house, rescue it, and help the family decide what comes next: keep it, rent it, or sell it.
 
-- **Property rescue services** — direct contact to sell, rent, or finance properties
-- **Contractor network** — prominent recruitment banner + registration with photo upload
-- **Job applications** with role-specific workflows
-- **Blog** with individual SEO-optimized post pages, JSON-LD schema, Open Graph tags
-- **Team page** — meet the humans behind the work
-- **Installable mobile app** (PWA) — works offline, works on iPhone and Android
-
-### 🔧 For the Team (Internal Portal)
-
-**📞 Customer Service & Sales:**
-- **Bitácora de Contactos** — customer support call log with routing, escalation, callback tracking, follow-up threads
-- **Lead capture** during client calls — instant pipeline entry
-- **Seguimiento** — track leads through the sales pipeline
-- **Wiki interna** — searchable knowledge base with markdown editing, categories, tags, attachments
-
-**📱 Field Operations:**
-- **Field capture** with GPS auto-fill + camera + offline support
-- **Visit mode** — comprehensive 10-zone property inspections with star ratings, photos per zone, and voice notes (max 2 min)
-
-**🔨 Construction Operations:**
-- **Bitácora de Obra** — daily construction log with 8 categories (progreso, problema, materiales, contratista, inspección, hito, gasto, nota), photo attachments, voice notes, GPS tagging
-- **Project management** — from acquisition through rehabilitation to delivery
-
-**📊 Analysis & Business:**
-- **Deal analyzer** — 9 investment strategies with custom LUMAVI parameters (1.5% rule, 12% cap rate minimum, MAO formula, flip targets)
-- **Investor reports** — automated metrics and KPIs
-
-**🔐 Access Control:**
-- **6 role hierarchy** — admin, analyst, ops_manager, editor, support, temp
-- Different views + permissions for each role
-- Netlify Identity single sign-on
+> *"Una casa abandonada no es solo una estructura perdida. Es una historia esperando volver a empezar."*
+> — Lumier Rodríguez, Founder
 
 ---
 
-## 🛠️ Tech Stack
+## What we do
 
-Built fast, built right, no vendor lock-in:
+| | Service | Who it's for |
+|---|---|---|
+| 🏛️ | **[Inheritance coordination](https://lumavipr.com/en/inherited-house-puerto-rico)** — family tree, documents, CRIM and Registry records, and the licensed attorney or notary who files the *declaratoria de herederos*. | Heirs on the island **and in the States** |
+| 👀 | **[Property checks — *Ojos en la Isla*](https://lumavipr.com/en/property-check)** — we walk the house and send you photos and a written condition summary. | Owners who live off the island |
+| 🔑 | **[Property management & concierge](https://lumavipr.com/en/concierge)** — monthly visits, contractor meetings, keys, bills and documents. | Empty, inherited or rented homes |
+| 🔨 | **Rescue & rehab** — abandoned houses brought back to life, documented every day from the field. | Families and LUMAVI's own portfolio |
+| 🏡 | **Rentals & sales** — LUMAVI's restored homes; client sales are listed by our in-house licensed real estate broker under her own license. | Families looking for a home |
+| 🧭 | **[Just bought from the States?](https://lumavipr.com/en/just-bought)** — the first 30 days after closing, handled. | New owners living off-island |
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat&logo=pwa&logoColor=white)
+**Start here:** a video consultation **[from $25](https://lumavipr.com/en/consultations)** — siblings can join the same call from anywhere, and the fee is credited toward any LUMAVI service within 90 days.
 
-### Backend & Serverless
-![Netlify_Functions](https://img.shields.io/badge/Netlify_Functions-00C7B7?style=flat&logo=netlify&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-
-### Database (SaaS Backend)
-![Airtable](https://img.shields.io/badge/Airtable-3_bases-FCB400?style=flat&logo=airtable&logoColor=white)
-![Attachments](https://img.shields.io/badge/Airtable_Content_API-attachments-orange?style=flat)
-
-### Hosting & DevOps
-![Netlify](https://img.shields.io/badge/Netlify-Hosting-00C7B7?style=flat&logo=netlify&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-
-### Content Management
-![Decap_CMS](https://img.shields.io/badge/Decap_CMS-Blog_+_Team-FF0049?style=flat)
-![Markdown](https://img.shields.io/badge/Markdown-blog_posts-000000?style=flat&logo=markdown&logoColor=white)
-
-### Public Forms & Auth
-![Netlify_Identity](https://img.shields.io/badge/Netlify_Identity-team_auth-00C7B7?style=flat&logo=netlify&logoColor=white)
-![Formspree](https://img.shields.io/badge/Formspree-public_forms-E5122E?style=flat)
-
-### Analytics & SEO
-![Google_Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=flat&logo=googleanalytics&logoColor=white)
-![Schema.org](https://img.shields.io/badge/Schema.org-JSON--LD-1A8FD3?style=flat)
-![Open_Graph](https://img.shields.io/badge/Open_Graph-social_previews-1877F2?style=flat)
+<sub>LUMAVI is not a law firm and does not give legal advice. We coordinate, retrieve documents and verify records in the field. Every legal determination is made by a licensed Puerto Rico attorney or notario público. Third-party costs are passed through at cost with receipts and are never marked up. LUMAVI accepts no referral fees and never holds estate funds or sale proceeds.</sub>
 
 ---
 
-## 🏗️ Architecture
+## The work
 
-Three-tier design with clean separation:
+Real houses, real photos. We keep the camera's date stamp on purpose — it shows our team was there.
 
-```
-┌────────────────────────────────────────────────────────────────────┐
-│                       LAYER 1: LUMAVIPR.COM                        │
-│                (Public + Internal HTML — Netlify hosted)           │
-├────────────────────────────────────────────────────────────────────┤
-│  PUBLIC PAGES (SEO-indexed)      INTERNAL PORTAL (auth required)   │
-│  ├─ index.html                    ├─ interno.html (team home)      │
-│  ├─ blog.html + /blog/[slug]      ├─ bitacora-contactos.html       │
-│  ├─ nosotros.html (team)          ├─ bitacora.html (construction)  │
-│  ├─ contratistas.html             ├─ wiki.html (searchable)        │
-│  ├─ aplica.html (3 programs)      ├─ captura.html + captura-campo  │
-│  ├─ ayuda.html                    ├─ seguimiento.html              │
-│  └─ empleos.html                  ├─ visita.html (inspections)     │
-│                                   ├─ analisis.html (deal analyzer) │
-│                                   ├─ proyectos.html                │
-│                                   └─ admin/ (CMS: blog + team)     │
-└────────────────────────────────────────────────────────────────────┘
-                              │
-                              ▼
-┌────────────────────────────────────────────────────────────────────┐
-│                  LAYER 2: NETLIFY FUNCTIONS                        │
-│              (Invisible API proxy — hides API keys)                │
-├────────────────────────────────────────────────────────────────────┤
-│  /.netlify/functions/bitacora     → LUMAVI Operations base         │
-│  /.netlify/functions/contactos    → LUMAVI Contactos base          │
-│  /.netlify/functions/wiki         → LUMAVI Knowledge Base          │
-└────────────────────────────────────────────────────────────────────┘
-                              │
-                              ▼
-┌────────────────────────────────────────────────────────────────────┐
-│                  LAYER 3: AIRTABLE (SaaS Database)                 │
-│                  (Single source of truth for operations)           │
-├────────────────────────────────────────────────────────────────────┤
-│  📊 LUMAVI Operations            📚 LUMAVI Knowledge Base         │
-│  ├─ Projects (12 fields)         └─ Wiki Articles (10 fields)      │
-│  └─ Bitácora Entries (11 fields)                                   │
-│                                                                    │
-│  ☎️ LUMAVI Contactos            🎨 LUMAVI Content Engine          │
-│  └─ Bitácora de Contactos       └─ Marketing content               │
-│     (14 fields — routing,          (existing base)                 │
-│      escalation, callbacks)                                        │
-└────────────────────────────────────────────────────────────────────┘
-                              │
-                              ▼
-┌────────────────────────────────────────────────────────────────────┐
-│                    ATTACHMENTS & STATIC BUILD                      │
-│  Airtable Content API  ◀── Photos + voice notes (permanent)        │
-│  GitHub markdown      ──▶ build.js   ──▶ posts.json + team.json   │
-│                                      ──▶ /blog/[slug].html (SEO)   │
-│                                      ──▶ sitemap.xml               │
-│  Formspree            ◀── Public forms (aplica, ayuda, empleos)    │
-└────────────────────────────────────────────────────────────────────┘
-```
+**Where it started — Bayamón.** The founder's own inherited family house, closed for more than 30 years. Rescued, rehabbed, and rented again.
+
+<p align="center"><img src="assets/bayamon-before-after.jpg" alt="Before and after: inherited house in Bayamón, Puerto Rico, overgrown in November 2025 and restored by LUMAVI" width="62%"></p>
+
+**Río Piedras.** LUMAVI's first finished rehab for sale.
+
+<p align="center"><img src="assets/rio-piedras-before-after.jpg" alt="Before and after: corner house in Río Piedras, San Juan, Puerto Rico, restored by LUMAVI" width="100%"></p>
+
+**One house, start to finish** — every work day is logged from the field with photos, GPS and voice notes.
+
+<p align="center"><img src="assets/before-during-after.jpg" alt="Before, during and after a LUMAVI rehab in Puerto Rico: damaged facade, plumbing work, restored facade" width="100%"></p>
+
+<p align="center"><img src="assets/field-team.jpg" alt="The LUMAVI field and office team in Puerto Rico" width="70%"><br><sub>The people who do the work.</sub></p>
 
 ---
 
-## 🚀 Key Features
+## Lumova — the platform we built
 
-| Feature | What It Does |
+<p align="center"><img src="assets/lumova-banner.jpg" alt="Lumova by LUMAVI — the operating system behind LUMAVI: cases, family trees, properties, crews, rent, payments and client conversations in one bilingual system (sample data)" width="100%"></p>
+
+Most property companies run on phone calls, spreadsheets and memory. We built **Lumova** instead — one system, from the ground up, in Puerto Rico, for how inheritance and property work actually happens here. Today it runs LUMAVI end to end. It is built to grow into a product for other property businesses on the island.
+
+**Who built it.** Lumova was architected and built by LUMAVI's founder, **Lumier Rodríguez**, with Claude as her engineering partner. Behind it are **15 years as a project manager and solutions architect** leading API integrations and implementations — plus years in the field inspecting and analyzing properties for national mortgage servicers. She knew the paperwork, the houses and the systems, so she built one tool that handles all three. [About the founder ↓](#the-founder)
+
+**For families** — a bilingual website that installs as an app, and a private portal where each family sees its case step by step, uploads documents and talks to the team.
+
+<p align="center"><img src="assets/client-portal.png" alt="LUMAVI client portal on laptop and phone: inheritance case progress, documents and messages (sample data)" width="100%"></p>
+
+**For the team — Lumova** — one app for the office and the field: cases, family trees, properties, crews, rent, invoices and every client conversation in one place.
+
+<p align="center"><img src="assets/lumova-workspace.png" alt="Lumova by LUMAVI on laptop and phone: client conversation, shared files and case details (sample data)" width="100%"></p>
+
+**For everyone else** — the public site, in English and Spanish.
+
+<p align="center"><img src="assets/website.jpg" alt="LUMAVI Properties website lumavipr.com on desktop and the LUMAVI app on a phone" width="100%"></p>
+
+### What Lumova does
+
+- **Case tracking families can see** — seven clear steps, who has the case right now, and a live field check-in (*"We're at the CRIM for your case"*).
+- **Family intake by phone** — the old 8-page paper form is now a guided, bilingual, save-as-you-go form.
+- **Family trees drawn from the case data** — printable for the attorney, visible to the family.
+- **AI document reader** — reads incoming case documents and files them for the team to confirm.
+- **One-tap invoicing and online payments** — the case knows which payment comes next.
+- **Property lifecycle** — interested → deal → rehab → rent → sold, with profit per property.
+- **Field tools** — work reports with photos, GPS and voice notes; expenses; inspections to quote.
+- **Rent tracking** — leases, payments and who is late, at a glance.
+- **Response-time clock** — measures how long every client waits on us, so nobody gets forgotten.
+
+### By the numbers
+
+| | |
 |---|---|
-| 📱 **PWA** | Installs to phone home screen. Works offline (critical in rural PR). Camera + GPS access. |
-| 🔍 **SEO-Optimized** | Each blog post gets its own URL, JSON-LD schema, Open Graph tags, sitemap.xml, canonical URLs |
-| ☎️ **Call Center** | Full customer support ticketing — priority, routing, escalation, callback tracking |
-| 🔨 **Construction Log** | Daily field log with 8 categories, photos, voice notes, GPS per entry |
-| 📚 **Searchable Wiki** | Real-time filter across all articles, category sidebar, inline markdown editing |
-| 📍 **Field Capture** | Team captures leads on-site with GPS auto-fill, camera, and offline queue |
-| 🎤 **Visit Mode** | 10-zone property inspections with star ratings, multi-zone photos, voice notes |
-| 📊 **Deal Analyzer** | 9 investment strategies, custom LUMAVI parameters, instant verdict |
-| 🔐 **6 Role Hierarchy** | Admin / Analyst / Ops Manager / Editor / Support / Temp via Netlify Identity |
-| 📝 **CMS-Powered** | Non-technical team members publish blog posts and team profiles without touching code |
-| 🔄 **Offline-First** | Forms queue locally when no signal, auto-sync when reconnected |
-| 🌐 **Bilingual-Ready** | Built in Spanish, structured to support English translations |
-| 📎 **Permanent Attachments** | Photos + voice notes stored in Airtable (never lost, unlike localStorage) |
-| 💬 **WhatsApp Integration** | One-click WhatsApp for contractor applications and consultations |
-| 📈 **Analytics** | Google Analytics + custom event tracking across all flows |
+| **Since June 2026** | built and shipped while running real cases |
+| **230+** | pull requests — shipped in small, reviewable steps |
+| **100+** | written product decisions, each with the reason behind it |
+| **50+** | serverless functions behind the website, portals and field tools |
+| **30+** | automated test suites |
+| **2** | languages on every customer page — English and Spanish |
+
+More about Lumova: **[docs/PLATFORM.md](docs/PLATFORM.md)** · How we got here: **[docs/MILESTONES.md](docs/MILESTONES.md)**
+
+<sub>Screens show sample data. No client information is ever published.</sub>
 
 ---
 
-## 📊 By the Numbers
+## The founder
 
-- **31** HTML pages (public + internal)
-- **3** Netlify Functions (serverless proxies to Airtable)
-- **3** dedicated Airtable databases (Operations, Knowledge Base, Contactos)
-- **37** fields across the operational database
-- **8** categories in the construction log
-- **10** call types in the customer support system
-- **9** investment strategies in the deal analyzer
-- **10** inspection zones in visit mode
-- **6** user role hierarchies with granular permissions
-- **6** social media platforms integrated
-- **1** mission: restoring homes, restoring communities
+<img src="assets/founder-on-site.jpg" alt="Lumier Rodríguez, founder of LUMAVI Properties, on site at a house being rescued in Puerto Rico" width="42%" align="right">
 
----
+**Lumier "Lumi" Rodríguez** — Founder & President
 
-## 🎯 What Makes This Different
+Born and raised in Bayamón, with roots in Comerío. Moved to Florida in 1998 and became part of the Puerto Rican diaspora — far from the island, but never letting go of it.
 
-Most real estate companies have a website. LUMAVI has a **complete operating system**:
+**Work background**
 
-- **Built as a SaaS platform** — team logs into a familiar-looking website, but behind the scenes runs on a real relational database (Airtable) with proper attachments, comments, revision history
-- **Built for the field, not just the desk** — half the platform runs from a phone with camera + GPS + voice recording + offline sync
-- **Built for non-technical teams** — customer support person logs calls in 30 seconds, ops manager documents construction in 30 seconds, editor publishes blog posts without touching code
-- **Built for Puerto Rico specifically** — bilingual considerations, spotty internet (offline-first), SURI compliance considerations, herederos + sucesiones workflows
-- **Built with dignity in mind** — every form, every page, treats clients and contractors like the experts they are
+- **Project management & solutions architecture — 15 years.** Planning, designing and delivering technology projects from first requirement to go-live.
+- **API integration & implementation.** Connecting systems so information flows between them — the same skill that ties Lumova to payments, email, WhatsApp, documents and AI.
+- **Property inspection & analysis.** Field inspector and analyst for national mortgage servicers in South Florida — walking, documenting and evaluating properties marked by time and neglect.
+- **Construction projects.** Hands-on with rehab work, which shaped how LUMAVI scopes, documents and runs every job.
+- **Builder of Lumova.** Architected LUMAVI's own platform and leads every decision behind it.
 
-The team never sees Airtable. They see LUMAVI's branded pages. But everything they do is stored in a real database, forever, searchable, with photos and voice notes as permanent attachments.
+When her grandmother passed, the inheritance led her to a family house that had been closed for more than thirty years. Her own family had homes sitting empty. That day she understood: *we don't need more houses — we need to recover the ones we already have.* That is how LUMAVI was born.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lumier_Rodríguez-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lumrodri/)
+
+<br clear="right">
 
 ---
 
-## 📞 Get in Touch
+## How we work
 
-**LUMAVI Properties** is actively rescuing properties across Puerto Rico.
+- **Real photos only** — no stock houses, no AI-generated homes. Date stamps stay.
+- **Licensed work stays licensed** — attorneys, notaries, brokers and engineers do what their license covers.
+- **No hidden margins** — third-party costs at cost, with receipts. No referral fees.
+- **Bilingual by default** — about 80% of our clients live in the States.
+- **Everything documented** — every case, every house, every decision.
 
-- 🌐 **Website:** [lumavipr.com](https://lumavipr.com)
-- 📧 **Email:** [casaslumavi@gmail.com](mailto:casaslumavi@gmail.com)
-- 📱 **Phone / WhatsApp:** [(787) 454-2924](tel:+17874542924)
-- 📍 **Location:** San Juan, Puerto Rico
+---
 
-### Follow Us
+## Contact
+
+| | |
+|---|---|
+| 🌐 Website | [lumavipr.com](https://lumavipr.com/en/) · [Install the app](https://lumavipr.com/app) |
+| 📞 Phone & WhatsApp | [(787) 454-2924](https://wa.me/17874542924) |
+| ✉️ Families & clients | [casaslumavi@gmail.com](mailto:casaslumavi@gmail.com) |
+| 💼 Business & partners | [hola@lumavipr.com](mailto:hola@lumavipr.com) |
+| 📍 Service area | All of Puerto Rico — and our clients wherever they live |
 
 [![Instagram](https://img.shields.io/badge/Instagram-@lumaviproperties-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/lumaviproperties/)
+[![Facebook](https://img.shields.io/badge/Facebook-LUMAVIPROPERTIES-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/LUMAVIPROPERTIES/)
 [![TikTok](https://img.shields.io/badge/TikTok-@lumaviproperties-000000?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@lumaviproperties)
-[![Facebook](https://img.shields.io/badge/Facebook-LUMAVI_Properties-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/LUMAVIPROPERTIES/)
-[![Threads](https://img.shields.io/badge/Threads-@lumaviproperties-000000?style=flat&logo=threads&logoColor=white)](https://www.threads.com/@lumaviproperties)
 [![X](https://img.shields.io/badge/X-@lumavipropertie-000000?style=flat&logo=x&logoColor=white)](https://x.com/lumavipropertie)
-[![Snapchat](https://img.shields.io/badge/Snapchat-@casaslumavi-FFFC00?style=flat&logo=snapchat&logoColor=black)](https://www.snapchat.com/@casaslumavi)
-
----
-
-## 🤝 Want to Work With LUMAVI?
-
-- **Selling, renting, or financing a property?** → [Apply here](https://lumavipr.com/aplica.html)
-- **Contractor / craftsperson?** → [Join our network](https://lumavipr.com/contratistas.html) ⭐ *Actively recruiting*
-- **Looking for a job?** → [See openings](https://lumavipr.com/empleos.html)
-- **Need help understanding your options?** → [Ask anything (Consultas desde $25)](https://lumavipr.com/ayuda.html)
-
----
-
-## ⚖️ License & Credits
-
-© 2025-2026 **LUMAVI Management Inc.** All rights reserved.
-
-This codebase is the proprietary intellectual property of LUMAVI Management Inc.
-
-Developed with assistance from **[Claude AI by Anthropic](https://anthropic.com)** — a productive collaboration between human vision and AI capability, building a real operational platform from scratch.
+[![Threads](https://img.shields.io/badge/Threads-@lumaviproperties-000000?style=flat&logo=threads&logoColor=white)](https://www.threads.com/@lumaviproperties)
 
 ---
 
 <div align="center">
 
-**Restaurando hogares. Restaurando comunidades.**
-*One property at a time.*
+<img src="assets/lumavi-mark.png" alt="LUMAVI logo" width="56">
 
-🇵🇷 Made with care in San Juan, Puerto Rico 🇵🇷
+**Rescatamos hogares pa' nuestra gente.**
+
+<sub>© 2025–2026 LUMAVI Properties Corp. · All rights reserved · Photos and screens are watermarked and may not be reused · Lumova built with <a href="https://www.anthropic.com/claude">Claude</a> by Anthropic</sub>
 
 </div>
