@@ -6,20 +6,20 @@
 
 ## Puerto Rico property rescue · inheritance coordination · property management
 
-**We bring forgotten and inherited homes in Puerto Rico back to life — and we built our own bilingual platform to run every case, every house and every crew.**
+**We bring forgotten and inherited homes in Puerto Rico back to life — and we built Lumova, our own bilingual platform, to run every case, every house and every crew.**
 
 [![Website](https://img.shields.io/badge/lumavipr.com-0A233E?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lumavipr.com/en/)
 [![Book a consultation](https://img.shields.io/badge/Book_a_consultation-8CC346?style=for-the-badge&logoColor=0A233E)](https://lumavipr.com/en/consultations)
 [![Español](https://img.shields.io/badge/Leer_en_español-FFFFFF?style=for-the-badge&logoColor=0A233E)](README.es.md)
 
-[What we do](#what-we-do) · [The work](#the-work) · [The platform](#the-platform-we-built) · [The founder](#the-founder) · [Milestones](docs/MILESTONES.md) · [Contact](#contact)
+[What we do](#what-we-do) · [The work](#the-work) · [Lumova](#lumova--the-platform-we-built) · [The founder](#the-founder) · [Milestones](docs/MILESTONES.md) · [Contact](#contact)
 
 </div>
 
 ---
 
 <div align="center">
-<img src="assets/lumavi-tour.gif" alt="16-second tour of LUMAVI: before and after rescues in Río Piedras and Bayamón, the bilingual website, the client portal and the team workspace." width="88%">
+<img src="assets/lumavi-tour.gif" alt="Tour of LUMAVI: before and after rescues in Río Piedras and Bayamón, the bilingual website, the client portal and Lumova, the platform behind LUMAVI." width="88%">
 <br><sub>Quick tour · <a href="assets/lumavi-tour.mp4">full video (MP4)</a> · screens show sample data</sub>
 </div>
 
@@ -73,23 +73,25 @@ Real houses, real photos. We keep the camera's date stamp on purpose — it show
 
 ---
 
-## The platform we built
+## Lumova — the platform we built
 
-Most property companies run on phone calls, spreadsheets and memory. We built one system instead — from the ground up, in Puerto Rico, for how inheritance and property work actually happens here.
+<p align="center"><img src="assets/lumova-banner.jpg" alt="Lumova by LUMAVI — the operating system behind LUMAVI: cases, family trees, properties, crews, rent, payments and client conversations in one bilingual system (sample data)" width="100%"></p>
+
+Most property companies run on phone calls, spreadsheets and memory. We built **Lumova** instead — one system, from the ground up, in Puerto Rico, for how inheritance and property work actually happens here. Today it runs LUMAVI end to end. It is built to grow into a product for other property businesses on the island.
 
 **For families** — a bilingual website that installs as an app, and a private portal where each family sees its case step by step, uploads documents and talks to the team.
 
 <p align="center"><img src="assets/client-portal.png" alt="LUMAVI client portal on laptop and phone: inheritance case progress, documents and messages (sample data)" width="100%"></p>
 
-**For the team** — one workspace for the office and the field: cases, family trees, properties, crews, rent, invoices and every client conversation in one place.
+**For the team — Lumova** — one app for the office and the field: cases, family trees, properties, crews, rent, invoices and every client conversation in one place.
 
-<p align="center"><img src="assets/team-workspace.png" alt="LUMAVI team workspace on laptop and phone: client conversation, shared files and case details (sample data)" width="100%"></p>
+<p align="center"><img src="assets/lumova-workspace.png" alt="Lumova by LUMAVI on laptop and phone: client conversation, shared files and case details (sample data)" width="100%"></p>
 
 **For everyone else** — the public site, in English and Spanish.
 
 <p align="center"><img src="assets/website.jpg" alt="LUMAVI Properties website lumavipr.com on desktop and the LUMAVI app on a phone" width="100%"></p>
 
-### What it does
+### What Lumova does
 
 - **Case tracking families can see** — seven clear steps, who has the case right now, and a live field check-in (*"We're at the CRIM for your case"*).
 - **Family intake by phone** — the old 8-page paper form is now a guided, bilingual, save-as-you-go form.
@@ -112,7 +114,7 @@ Most property companies run on phone calls, spreadsheets and memory. We built on
 | **30+** | automated test suites |
 | **2** | languages on every customer page — English and Spanish |
 
-More detail: **[docs/PLATFORM.md](docs/PLATFORM.md)** · How we got here: **[docs/MILESTONES.md](docs/MILESTONES.md)**
+More about Lumova: **[docs/PLATFORM.md](docs/PLATFORM.md)** · How we got here: **[docs/MILESTONES.md](docs/MILESTONES.md)**
 
 <sub>Screens show sample data. No client information is ever published.</sub>
 
@@ -128,7 +130,7 @@ Born and raised in Bayamón, with roots in Comerío. Moved to Florida in 1998 an
 
 - **15 years** as a **project manager and solutions architect**, leading **API integrations and implementations**
 - Field inspector and analyst for **national mortgage servicers** in South Florida — walking, documenting and evaluating properties marked by time and neglect
-- Hands-on with construction projects, and the architect of LUMAVI's own platform
+- Hands-on with construction projects, and the architect of **Lumova**, LUMAVI's own platform
 
 When her grandmother passed, the inheritance led her to a family house that had been closed for more than thirty years. Her own family had homes sitting empty. That day she understood: *we don't need more houses — we need to recover the ones we already have.* That is how LUMAVI was born.
 
@@ -172,6 +174,6 @@ When her grandmother passed, the inheritance led her to a family house that had 
 
 **Rescatamos hogares pa' nuestra gente.**
 
-<sub>© 2025–2026 LUMAVI Properties Corp. · All rights reserved · Photos and screens are watermarked and may not be reused · Platform built with <a href="https://www.anthropic.com/claude">Claude</a> by Anthropic</sub>
+<sub>© 2025–2026 LUMAVI Properties Corp. · All rights reserved · Photos and screens are watermarked and may not be reused · Lumova built with <a href="https://www.anthropic.com/claude">Claude</a> by Anthropic</sub>
 
 </div>

@@ -6,20 +6,20 @@
 
 ## Rescate de propiedades · herencias · administración de propiedades en Puerto Rico
 
-**Le devolvemos la vida a casas olvidadas y heredadas en Puerto Rico — y construimos nuestra propia plataforma bilingüe para manejar cada caso, cada casa y cada brigada.**
+**Le devolvemos la vida a casas olvidadas y heredadas en Puerto Rico — y construimos Lumova, nuestra propia plataforma bilingüe, para manejar cada caso, cada casa y cada brigada.**
 
 [![Sitio web](https://img.shields.io/badge/lumavipr.com-0A233E?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lumavipr.com/)
 [![Reserva tu consulta](https://img.shields.io/badge/Reserva_tu_consulta-8CC346?style=for-the-badge&logoColor=0A233E)](https://lumavipr.com/consultas)
 [![English](https://img.shields.io/badge/Read_in_English-FFFFFF?style=for-the-badge&logoColor=0A233E)](README.md)
 
-[Qué hacemos](#qué-hacemos) · [El trabajo](#el-trabajo) · [La plataforma](#la-plataforma-que-construimos) · [La fundadora](#la-fundadora) · [Contacto](#contacto)
+[Qué hacemos](#qué-hacemos) · [El trabajo](#el-trabajo) · [Lumova](#lumova--la-plataforma-que-construimos) · [La fundadora](#la-fundadora) · [Contacto](#contacto)
 
 </div>
 
 ---
 
 <div align="center">
-<img src="assets/lumavi-tour.gif" alt="Recorrido de 16 segundos por LUMAVI: antes y después en Río Piedras y Bayamón, el sitio web bilingüe, el portal del cliente y el espacio del equipo." width="88%">
+<img src="assets/lumavi-tour.gif" alt="Recorrido por LUMAVI: antes y después en Río Piedras y Bayamón, el sitio web bilingüe, el portal del cliente y Lumova, la plataforma detrás de LUMAVI." width="88%">
 <br><sub>Recorrido rápido · <a href="assets/lumavi-tour.mp4">video completo (MP4)</a> · las pantallas usan datos de ejemplo</sub>
 </div>
 
@@ -73,19 +73,21 @@ Casas de verdad, fotos de verdad. La fecha de la cámara se queda a propósito: 
 
 ---
 
-## La plataforma que construimos
+## Lumova — la plataforma que construimos
 
-La mayoría de las compañías de propiedades funcionan con llamadas, hojas de cálculo y memoria. Nosotros construimos un solo sistema, desde cero, aquí en Puerto Rico y para cómo de verdad se mueven las herencias y las propiedades aquí.
+<p align="center"><img src="assets/lumova-banner.jpg" alt="Lumova by LUMAVI — el sistema detrás de LUMAVI (datos de ejemplo)" width="100%"></p>
+
+La mayoría de las compañías de propiedades funcionan con llamadas, hojas de cálculo y memoria. Nosotros construimos **Lumova**: un solo sistema, desde cero, aquí en Puerto Rico y para cómo de verdad se mueven las herencias y las propiedades aquí. Hoy maneja LUMAVI de punta a punta. Está hecha para crecer y convertirse en un producto para otros negocios de propiedades en la isla.
 
 **Para las familias** — un sitio bilingüe que se instala como app, y un portal privado donde cada familia ve su caso paso a paso, sube documentos y le escribe al equipo.
 
 <p align="center"><img src="assets/client-portal.png" alt="Portal del cliente de LUMAVI en computadora y teléfono (datos de ejemplo)" width="100%"></p>
 
-**Para el equipo** — un solo espacio para la oficina y el campo: casos, árboles familiares, propiedades, brigadas, renta, facturas y cada conversación con el cliente.
+**Para el equipo — Lumova** — una sola app para la oficina y el campo: casos, árboles familiares, propiedades, brigadas, renta, facturas y cada conversación con el cliente.
 
-<p align="center"><img src="assets/team-workspace.png" alt="Espacio de trabajo del equipo LUMAVI en computadora y teléfono (datos de ejemplo)" width="100%"></p>
+<p align="center"><img src="assets/lumova-workspace.png" alt="Lumova de LUMAVI en computadora y teléfono (datos de ejemplo)" width="100%"></p>
 
-### Lo que hace
+### Lo que hace Lumova
 
 - **El caso a la vista de la familia** — siete pasos claros, quién lo tiene ahora mismo, y el aviso desde la calle (*"Estamos en el CRIM por tu caso"*).
 - **El formulario de familia por el teléfono** — las 8 páginas de papel ahora son un formulario guiado, bilingüe, que guarda solo.
@@ -122,7 +124,7 @@ Nacida y criada en Bayamón, con raíces en Comerío. En 1998 se fue a la Florid
 
 - **15 años** como **gerente de proyectos y arquitecta de soluciones**, dirigiendo **integraciones de API e implementaciones**
 - Inspectora de campo y analista para **servicers hipotecarios nacionales** en el sur de la Florida
-- Experiencia en proyectos de construcción, y la arquitecta de la plataforma de LUMAVI
+- Experiencia en proyectos de construcción, y la arquitecta de **Lumova**, la plataforma de LUMAVI
 
 Con la muerte de su abuela, los trámites de herencia la llevaron a una casa de la familia cerrada por más de treinta años. Su propia familia tenía casas vacías. Ese día entendió que no hacen falta más casas: hace falta recuperar las que ya existen. Así nace LUMAVI.
 
@@ -150,6 +152,6 @@ Con la muerte de su abuela, los trámites de herencia la llevaron a una casa de 
 
 **Rescatamos hogares pa' nuestra gente.**
 
-<sub>© 2025–2026 LUMAVI Properties Corp. · Todos los derechos reservados · Fotos y pantallas con marca de agua; no se permite su uso · Plataforma construida con <a href="https://www.anthropic.com/claude">Claude</a> de Anthropic</sub>
+<sub>© 2025–2026 LUMAVI Properties Corp. · Todos los derechos reservados · Fotos y pantallas con marca de agua; no se permite su uso · Lumova construida con <a href="https://www.anthropic.com/claude">Claude</a> de Anthropic</sub>
 
 </div>

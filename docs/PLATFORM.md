@@ -1,6 +1,8 @@
-# The LUMAVI platform
+<p align="center"><img src="../assets/lumova-wordmark-dark.png" alt="Lumova by LUMAVI" width="420"></p>
 
-How a Puerto Rico property-rescue company runs every inheritance case, every house and every crew from one bilingual system it built itself.
+# Lumova — the platform behind LUMAVI
+
+How a Puerto Rico property-rescue company runs every inheritance case, every house and every crew from one bilingual system it built itself. Today Lumova runs LUMAVI. It is built to grow into a product for other property businesses in Puerto Rico.
 
 [← Back to the overview](../README.md)
 
@@ -12,7 +14,7 @@ How a Puerto Rico property-rescue company runs every inheritance case, every hou
 
 Inheritance work in Puerto Rico is slow, paper-heavy and spread across many offices: the CRIM, the Property Registry, attorneys, notaries, municipalities and courts. Most of our clients live in the States, so they can't walk into an office — or into the house. Off-the-shelf property software doesn't know any of that.
 
-So we designed our own, around three people:
+So we built Lumova, around three people:
 
 | Who | What they need | What the platform gives them |
 |---|---|---|
@@ -67,7 +69,7 @@ So we designed our own, around three people:
 
 ## How we build
 
-We run the platform like a product team, not like a side project.
+We run Lumova like a product team, not like a side project.
 
 - **Spec first.** Anything with statuses, steps or roles gets a one-card spec the founder approves before a line of code is written.
 - **Every decision written down.** 100+ numbered decisions, each with the reason in the founder's own words and what it replaced.
