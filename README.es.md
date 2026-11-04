@@ -79,6 +79,8 @@ Casas de verdad, fotos de verdad. La fecha de la cámara se queda a propósito: 
 
 La mayoría de las compañías de propiedades funcionan con llamadas, hojas de cálculo y memoria. Nosotros construimos **Lumova**: un solo sistema, desde cero, aquí en Puerto Rico y para cómo de verdad se mueven las herencias y las propiedades aquí. Hoy maneja LUMAVI de punta a punta. Está hecha para crecer y convertirse en un producto para otros negocios de propiedades en la isla.
 
+**Quién la construyó.** Lumova la diseñó y la construyó la fundadora de LUMAVI, **Lumier Rodríguez**, con Claude como su socio de ingeniería. Detrás hay **15 años como gerente de proyectos y arquitecta de soluciones**, dirigiendo integraciones de API e implementaciones, y años en el campo inspeccionando y analizando propiedades para servicers hipotecarios nacionales. Conocía los papeles, las casas y los sistemas, así que construyó una sola herramienta que maneja los tres. [Sobre la fundadora ↓](#la-fundadora)
+
 **Para las familias** — un sitio bilingüe que se instala como app, y un portal privado donde cada familia ve su caso paso a paso, sube documentos y le escribe al equipo.
 
 <p align="center"><img src="assets/client-portal.png" alt="Portal del cliente de LUMAVI en computadora y teléfono (datos de ejemplo)" width="100%"></p>
@@ -122,9 +124,13 @@ Más detalle (en inglés): **[docs/PLATFORM.md](docs/PLATFORM.md)** · **[docs/M
 
 Nacida y criada en Bayamón, con raíces en Comerío. En 1998 se fue a la Florida y pasó a ser parte de la diáspora puertorriqueña: lejos de su tierra, pero sin soltarla nunca.
 
-- **15 años** como **gerente de proyectos y arquitecta de soluciones**, dirigiendo **integraciones de API e implementaciones**
-- Inspectora de campo y analista para **servicers hipotecarios nacionales** en el sur de la Florida
-- Experiencia en proyectos de construcción, y la arquitecta de **Lumova**, la plataforma de LUMAVI
+**Trayectoria profesional**
+
+- **Gerencia de proyectos y arquitectura de soluciones — 15 años.** Planificar, diseñar y entregar proyectos de tecnología, desde el primer requisito hasta que salen en vivo.
+- **Integración de API e implementación.** Conectar sistemas para que la información fluya entre ellos — lo mismo que une a Lumova con pagos, correo, WhatsApp, documentos e IA.
+- **Inspección y análisis de propiedades.** Inspectora de campo y analista para servicers hipotecarios nacionales en el sur de la Florida.
+- **Proyectos de construcción.** Experiencia directa en remodelaciones, que marcó cómo LUMAVI cotiza, documenta y lleva cada trabajo.
+- **Creadora de Lumova.** Diseñó la plataforma de LUMAVI y dirige cada decisión detrás de ella.
 
 Con la muerte de su abuela, los trámites de herencia la llevaron a una casa de la familia cerrada por más de treinta años. Su propia familia tenía casas vacías. Ese día entendió que no hacen falta más casas: hace falta recuperar las que ya existen. Así nace LUMAVI.
 

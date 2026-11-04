@@ -6,6 +6,8 @@ How a Puerto Rico property-rescue company runs every inheritance case, every hou
 
 [← Back to the overview](../README.md)
 
+**Architected and built by Lumier Rodríguez**, LUMAVI's founder, with Claude as her engineering partner — drawing on 15 years as a project manager and solutions architect leading API integrations and implementations, and years as a field inspector and analyst for national mortgage servicers. [Her background →](../README.md#the-founder)
+
 <p align="center"><img src="../assets/client-portal.png" alt="LUMAVI client portal on laptop and phone (sample data)" width="100%"></p>
 
 ---

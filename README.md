@@ -79,6 +79,8 @@ Real houses, real photos. We keep the camera's date stamp on purpose — it show
 
 Most property companies run on phone calls, spreadsheets and memory. We built **Lumova** instead — one system, from the ground up, in Puerto Rico, for how inheritance and property work actually happens here. Today it runs LUMAVI end to end. It is built to grow into a product for other property businesses on the island.
 
+**Who built it.** Lumova was architected and built by LUMAVI's founder, **Lumier Rodríguez**, with Claude as her engineering partner. Behind it are **15 years as a project manager and solutions architect** leading API integrations and implementations — plus years in the field inspecting and analyzing properties for national mortgage servicers. She knew the paperwork, the houses and the systems, so she built one tool that handles all three. [About the founder ↓](#the-founder)
+
 **For families** — a bilingual website that installs as an app, and a private portal where each family sees its case step by step, uploads documents and talks to the team.
 
 <p align="center"><img src="assets/client-portal.png" alt="LUMAVI client portal on laptop and phone: inheritance case progress, documents and messages (sample data)" width="100%"></p>
@@ -128,9 +130,13 @@ More about Lumova: **[docs/PLATFORM.md](docs/PLATFORM.md)** · How we got here: 
 
 Born and raised in Bayamón, with roots in Comerío. Moved to Florida in 1998 and became part of the Puerto Rican diaspora — far from the island, but never letting go of it.
 
-- **15 years** as a **project manager and solutions architect**, leading **API integrations and implementations**
-- Field inspector and analyst for **national mortgage servicers** in South Florida — walking, documenting and evaluating properties marked by time and neglect
-- Hands-on with construction projects, and the architect of **Lumova**, LUMAVI's own platform
+**Work background**
+
+- **Project management & solutions architecture — 15 years.** Planning, designing and delivering technology projects from first requirement to go-live.
+- **API integration & implementation.** Connecting systems so information flows between them — the same skill that ties Lumova to payments, email, WhatsApp, documents and AI.
+- **Property inspection & analysis.** Field inspector and analyst for national mortgage servicers in South Florida — walking, documenting and evaluating properties marked by time and neglect.
+- **Construction projects.** Hands-on with rehab work, which shaped how LUMAVI scopes, documents and runs every job.
+- **Builder of Lumova.** Architected LUMAVI's own platform and leads every decision behind it.
 
 When her grandmother passed, the inheritance led her to a family house that had been closed for more than thirty years. Her own family had homes sitting empty. That day she understood: *we don't need more houses — we need to recover the ones we already have.* That is how LUMAVI was born.
 
