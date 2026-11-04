@@ -111,26 +111,26 @@ Three-tier design with clean separation:
 
 ```
 ┌────────────────────────────────────────────────────────────────────┐
-│                       LAYER 1: LUMAVIPR.COM                         │
-│                (Public + Internal HTML — Netlify hosted)            │
+│                       LAYER 1: LUMAVIPR.COM                        │
+│                (Public + Internal HTML — Netlify hosted)           │
 ├────────────────────────────────────────────────────────────────────┤
 │  PUBLIC PAGES (SEO-indexed)      INTERNAL PORTAL (auth required)   │
 │  ├─ index.html                    ├─ interno.html (team home)      │
 │  ├─ blog.html + /blog/[slug]      ├─ bitacora-contactos.html       │
 │  ├─ nosotros.html (team)          ├─ bitacora.html (construction)  │
-│  ├─ contratistas.html             ├─ wiki.html (searchable)         │
+│  ├─ contratistas.html             ├─ wiki.html (searchable)        │
 │  ├─ aplica.html (3 programs)      ├─ captura.html + captura-campo  │
-│  ├─ ayuda.html                    ├─ seguimiento.html               │
-│  └─ empleos.html                  ├─ visita.html (inspections)      │
+│  ├─ ayuda.html                    ├─ seguimiento.html              │
+│  └─ empleos.html                  ├─ visita.html (inspections)     │
 │                                   ├─ analisis.html (deal analyzer) │
-│                                   ├─ proyectos.html                 │
-│                                   └─ admin/ (CMS: blog + team)      │
+│                                   ├─ proyectos.html                │
+│                                   └─ admin/ (CMS: blog + team)     │
 └────────────────────────────────────────────────────────────────────┘
                               │
                               ▼
 ┌────────────────────────────────────────────────────────────────────┐
-│                  LAYER 2: NETLIFY FUNCTIONS                         │
-│              (Invisible API proxy — hides API keys)                 │
+│                  LAYER 2: NETLIFY FUNCTIONS                        │
+│              (Invisible API proxy — hides API keys)                │
 ├────────────────────────────────────────────────────────────────────┤
 │  /.netlify/functions/bitacora     → LUMAVI Operations base         │
 │  /.netlify/functions/contactos    → LUMAVI Contactos base          │
@@ -139,27 +139,27 @@ Three-tier design with clean separation:
                               │
                               ▼
 ┌────────────────────────────────────────────────────────────────────┐
-│                  LAYER 3: AIRTABLE (SaaS Database)                  │
-│                  (Single source of truth for operations)            │
+│                  LAYER 3: AIRTABLE (SaaS Database)                 │
+│                  (Single source of truth for operations)           │
 ├────────────────────────────────────────────────────────────────────┤
-│  📊 LUMAVI Operations            📚 LUMAVI Knowledge Base           │
-│  ├─ Projects (12 fields)         └─ Wiki Articles (10 fields)       │
-│  └─ Bitácora Entries (11 fields)                                    │
-│                                                                     │
-│  ☎️ LUMAVI Contactos            🎨 LUMAVI Content Engine            │
-│  └─ Bitácora de Contactos       └─ Marketing content                │
+│  📊 LUMAVI Operations            📚 LUMAVI Knowledge Base         │
+│  ├─ Projects (12 fields)         └─ Wiki Articles (10 fields)      │
+│  └─ Bitácora Entries (11 fields)                                   │
+│                                                                    │
+│  ☎️ LUMAVI Contactos            🎨 LUMAVI Content Engine          │
+│  └─ Bitácora de Contactos       └─ Marketing content               │
 │     (14 fields — routing,          (existing base)                 │
-│      escalation, callbacks)                                         │
+│      escalation, callbacks)                                        │
 └────────────────────────────────────────────────────────────────────┘
                               │
                               ▼
 ┌────────────────────────────────────────────────────────────────────┐
-│                    ATTACHMENTS & STATIC BUILD                       │
-│  Airtable Content API  ◀── Photos + voice notes (permanent)         │
-│  GitHub markdown       ──▶ build.js  ──▶ posts.json + team.json    │
-│                                       ──▶ /blog/[slug].html (SEO)   │
-│                                       ──▶ sitemap.xml               │
-│  Formspree             ◀── Public forms (aplica, ayuda, empleos)    │
+│                    ATTACHMENTS & STATIC BUILD                      │
+│  Airtable Content API  ◀── Photos + voice notes (permanent)       │
+│  GitHub markdown      ──▶ build.js   ──▶ posts.json + team.json   │
+│                                      ──▶ /blog/[slug].html (SEO)   │
+│                                      ──▶ sitemap.xml               │
+│  Formspree             ◀── Public forms (aplica, ayuda, empleos)   │
 └────────────────────────────────────────────────────────────────────┘
 ```
 
